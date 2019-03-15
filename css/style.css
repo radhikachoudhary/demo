@@ -1,0 +1,10 @@
+body { 
+  background: url(../img/background.jpg) no-repeat center fixed; 
+}
+.login-display{
+margin-top:100px;
+}
+.form-style{
+	background-color: white;
+	padding:12px;
+}
